@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Esther 👋
 
-<!--
-**estheroyekwere-lgtm/estheroyekwere-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Software QA Engineer
 
-Here are some ideas to get you started:
+I am passionate about software quality and building reliable applications through effective testing practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- Cypress Automation
+- Performance Testing (K6)
+- SDLC/STLC
+- Jira
+
+### Current Focus
+
+- Advancing my QA Engineering career
+- Improving Automation Testing skills
+- Exploring Software Engineering opportunities
+
+### Featured Projects
+
+#### QA Portfolio
+A collection of test cases, bug reports, and QA documentation.
+
+#### Cypress Swag Labs Automation
+Automation testing project using Cypress and JavaScript.
+
+#### K6 Performance Testing
+Performance testing project using K6 to evaluate application performance under load.
+
+### Connect With Me
+
+- Email: [estheroyekwere@gmail.com]
